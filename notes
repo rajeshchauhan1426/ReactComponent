@@ -1,3 +1,9 @@
 1-State Management is almost half of the react app
 2-State Management is the beating heart of the react app
 3-react whole job is to turn state into html at least in web context
+
+
+In React, useState, as well as any other function starting with ”use”, is called a Hook.
+, state is fully private to the component declaring it. The parent component can’t change it. 
+
+Curly braces open the “window into JavaScript”. 
